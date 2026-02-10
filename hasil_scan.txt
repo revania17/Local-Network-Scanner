@@ -1,0 +1,72 @@
+================================
+Waktu : 2026-01-14 00:23:09
+IP    : 127.0.0.1
+Port 80 → TERBUKA
+Port 110 → TERTUTUP
+Port 5432 → TERTUTUP
+Port 8080 → TERTUTUP
+
+================================
+Waktu : 2026-01-14 09:21:28
+IP    : 127.0.0.1
+Port 3389 → TERTUTUP
+Port 23 → TERTUTUP
+Port 3306 → TERTUTUP
+Port 8080 → TERTUTUP
+
+================================
+Waktu : 2026-01-14 10:18:49
+IP    : 127.0.0.1
+Port 80 → TERBUKA
+Port 443 → TERBUKA
+Port 3306 → TERBUKA
+Port 8080 → TERTUTUP
+
+================================
+Waktu : 2026-01-21 14:17:07
+IP    : 127.0.0.1
+Port 80443 → ERROR
+Port 8080 → TERTUTUP
+
+================================
+Waktu : 2026-01-21 14:17:14
+IP    : 127.0.0.1
+Port 80 → TERTUTUP
+Port 443 → TERTUTUP
+Port 8080 → TERTUTUP
+
+================================
+Waktu : 2026-02-09 12:05:17
+IP    : 10.128.137.58
+Port 80 → TERTUTUP
+Port 443 → TERTUTUP
+Port 23 → TERTUTUP
+
+================================
+Waktu : 2026-02-09 12:07:36
+IP    : 10.128.137.58
+Port 80 → TERTUTUP
+Port 443 → TERTUTUP
+Port 23 → TERTUTUP
+
+================================
+Waktu : 2026-02-09 12:10:44
+IP    : 10.128.137.58
+Port 80 → TERTUTUP
+Port 23 → TERTUTUP
+Port 230 → TERTUTUP
+
+================================
+Waktu : 2026-02-09 14:22:10
+IP    : 192.168.202.245
+Port 80 → TERBUKA
+Port 110 → TERTUTUP
+Port 27017 → TERTUTUP
+Port 443 → TERBUKA
+Port 3306 → TERBUKA
+
+================================
+Waktu : 2026-02-10 06:42:53
+IP    : 192.168.1.12
+Port 80 → TERTUTUP
+
